@@ -35,7 +35,7 @@ RainTomorrow: Did the next day receive precipitation exceeding 1mm in the 24 hou
 ## Model architecture 
 
 
-We employed  cnn model and fine-tuned it for our particular rain detection task. & we fined that conv1d is best layer for that task
+We employed  5  models and fine-tuned it for our particular rain detection task. & we fined that conv1d is best layer for that task
 
 ![image](https://user-images.githubusercontent.com/31762490/202327821-c78f1577-083e-466a-b7c4-0b17df5c243e.png)
 
