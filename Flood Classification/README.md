@@ -14,10 +14,12 @@ The data can be downloaded from the following link:
 https://www.kaggle.com/datasets/rahultp97/louisiana-flood-2016
 
 
-We employed 4 KERAS' pretrained models like VGG16 ,resnet ,mobilenet &inceptionv3 CNN and fine-tuned it for our particular flood detection (image classification) task.
-& we fined that VGG16 is best suited for this data
+
 
 ##  Model architecture (VGG16)
+
+We employed 4 KERAS' pretrained models like VGG16 ,resnet ,mobilenet &inceptionv3 CNN and fine-tuned it for our particular flood detection (image classification) task.
+& we fined that VGG16 is best suited for this data
 
 ![image](https://user-images.githubusercontent.com/31762490/202320653-dd2eca20-243b-4b95-820e-c0bf5d003bfb.png)
 
