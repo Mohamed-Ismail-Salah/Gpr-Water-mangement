@@ -1,0 +1,20 @@
+## introduction
+
+Flooding is a natural hazard that causes a lot of deaths every year and the number of flood events is increasing
+worldwide because of climate change effects. Detecting and monitoring floods is of paramount importance in order
+to reduce their impacts both in terms of affected people and economic losses. Automated image analysis techniques
+capable to extract the amount of water from a picture can be used to create novel services aimed to detect floods
+from fixed surveillance cameras, drones, crowdsourced in-field observations, as well as to extract meaningful data
+from social media streams. In this notebooks we compare the accuracy and the prediction performances of recent Deep
+Learning algorithms for the pixel-wise water segmentation task.
+
+## data source 
+
+we used ETCi 2021 Competition on Flood Detection to build those model 
+
+ data can be downloaded from the following link:
+ https://www.kaggle.com/datasets/aninda/etci-2021-competition-on-flood-detection
+
+## Model architecture (UNet)
+
+
