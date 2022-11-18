@@ -14,6 +14,9 @@ we used ETCi 2021 Competition on Flood Detection to build those model
 
  data can be downloaded from the following link:
  https://www.kaggle.com/datasets/aninda/etci-2021-competition-on-flood-detection
+ 
+ ## data overview
+ The provided training data is split across 29 root folders named <region>_<datetime>*, region being the region and datetime being the date and time of the flood event. Each root folder includes 4 sub-folders: vv, vh, flood_label and water_body_label with 2,068 files each. vv and vh correspond to the satellite images listed earlier and images in the flood_label and water_body_label folder provide reference ground truth.
 
 ## Model architecture (2D UNet)
 
