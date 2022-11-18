@@ -15,6 +15,17 @@ we used ETCi 2021 Competition on Flood Detection to build those model
  data can be downloaded from the following link:
  https://www.kaggle.com/datasets/aninda/etci-2021-competition-on-flood-detection
 
-## Model architecture (UNet)
+## Model architecture (2D UNet)
+
+We employed 4  cnn models and fine-tuned it for our particular Flood Segmentation task.
+& we fined that 2d unet is best suited for this data
+
+![image](https://user-images.githubusercontent.com/31762490/202818422-7d8cd6d4-cd00-425a-b79b-744cb6375fce.png)
+
+
+## Model summary
+
+![image](https://user-images.githubusercontent.com/31762490/202818451-b6945cd4-9737-48ba-9886-14273ac94efb.png)
+
 
 
