@@ -10,7 +10,7 @@ If such leakages go undetected and predominant then the above is not possible
 ## data summary
 
 This dataset includes two hundred and eighty signals acquired from a laboratory-scaled 
-water distribution testbed with four types of induced leaks. Leaks were induced in a laboratoryscaled water distribution system with 152.4 mm (6 in.) diameter PVC pipes. Three sensor 
+water distribution testbed with four types of induced leaks. Leaks were induced in a laboratory scaled water distribution system with 152.4 mm (6 in.) diameter PVC pipes. Three sensor 
 types_accelerometer, hydrophone, and dynamic pressure transducer_two sensors of each kind 
 were employed to measure acceleration, acoustic, and dynamic pressure data. The sensor data 
 were recorded through controlled experiments where the following were changed: network 
