@@ -5,7 +5,7 @@ Water is the most important nutrient for the body. It has many benefits for your
 
 ## Overview
 
-we built 5 different models using Rnn,lstm, lstm-rnn vs cnn to predict water quality using the below data
+we built 5 different models using Rnn,lstm, lstm-cnn & cnn to predict water quality using the below data
 
 ## Data Source
 
